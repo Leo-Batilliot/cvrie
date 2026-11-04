@@ -1,0 +1,13 @@
+.idea
+
+# venv
+**/venv
+**/.venv
+
+#dataset
+supervised/clean_dataset
+
+**/.pyc
+**/__pycache__
+supervised/dataset/Training/
+supervised/dataset/Testing/

@@ -1,0 +1,5 @@
+Matplotlib
+pillow
+numpy
+scikit-learn
+joblib
